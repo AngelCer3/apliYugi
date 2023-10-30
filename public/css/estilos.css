@@ -1,0 +1,75 @@
+.color-nav {
+  background-color: #343a40;
+}
+body{
+  background: url("../../public/img/dark-magician-girl-yu-gi-oh-dark-side-of-dimensions-57-1024x555.jpg") fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  font-family: "Times New Roman", Times, serif;
+}
+.card-imagen {
+  height: 150px;
+  width: 250px;
+  display: block;
+  margin: 0 auto;
+}
+.TamañoDeImg {
+  height: 13rem;
+  width: 28rem;
+}
+.colorDeFondo {
+  background-color: #f8f9fa;
+}
+.TamañoDeCard {
+  width: 25rem;
+}
+.TipoDeLetra {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.ColorDePrimerBoton {
+  background-color: #e9ecef;
+}
+.ColorDeSegundoBoton {
+  background-color: #dee2e6;
+}
+.TamañoDeImgContraseña {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+.TamañoDeImgPrincipalPagina {
+  height: 20rem;
+  width: 20rem;
+}
+.texto1 {
+  color: #dc2f02;
+}
+
+.texto2 {
+  color: #084c61;
+}
+.texto3 {
+  color: #d90368;
+}
+
+.ColorBoton3 {
+  background-color: #f6aa1c;
+}
+.ColorBoton4 {
+  background-color: #06d6a0;
+}
+.ColorBoton5 {
+  background-color: #ffb3c1;
+}
+.tabla-monstruos {
+  background-color: #eeba0b;
+}
+.tabla-magias{
+  background-color:lightgreen;
+}
+.tabla-trampas{
+  background-color: #ffb3c1;
+}
+.fondo-grafica{
+  background-color: #f4acb7;
+}
